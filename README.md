@@ -17,3 +17,4 @@ Application uses API https://api.safesafe.app as proxy to send and retrieve data
 
 ## debug
 When When application is running as WebView you can debug in chrome at chrome://inspect/#devices
+  
