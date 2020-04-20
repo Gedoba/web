@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^4.9.9",
+    "@material-ui/core": "^4.9.11",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -14,11 +14,11 @@
     "lodash.invoke": "^4.5.2",
     "lodash.uniqueid": "^4.0.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "git+https://github.com/sass/node-sass.git#v5",
     "prop-types": "^15.7.2",
     "ramda": "^0.27.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-perfect-scrollbar": "^1.5.8",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
@@ -30,7 +30,7 @@
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
     "slick-carousel": "^1.8.1",
-    "styled-components": "^5.0.1",
+    "styled-components": "^5.1.0",
     "yup": "^0.28.3"
   },
   "scripts": {
@@ -73,14 +73,14 @@
   },
   "devDependencies": {
     "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-import": "^2.20.1",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-react": "^7.19.0",
-    "husky": "^4.2.3",
-    "lint-staged": "^10.0.8",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.1.6",
     "prettier": "^1.19.1",
-    "workbox-build": "^5.1.1"
+    "workbox-build": "^5.1.2"
   }
 }
