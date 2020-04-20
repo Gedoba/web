@@ -16,5 +16,6 @@ When application is running as WebView in Android or IOS device, it uses NativeB
 Application uses API https://api.safesafe.app as proxy to send and retrieve data from infermedica.com [Documentation](https://developer.infermedica.com/docs/covid-19)
 
 ## debug
-When When application is running as WebView you can debug in chrome at chrome://inspect/#devices
-   
+When When application is running as WebView you can debug in chrome at chrome://inspect/#device
+
+v3
